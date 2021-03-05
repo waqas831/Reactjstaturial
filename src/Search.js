@@ -15,6 +15,7 @@ const Search = () => {
         value={img}
         onChange={InputEvent}
       />
+      <h1>welcome</h1>
     </div>
   );
 };
